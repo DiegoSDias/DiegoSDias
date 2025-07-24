@@ -1,7 +1,9 @@
- <div align="center">
+<div align="center">
     <h1>Diego Santos Dias</h1>
 </div>
     
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiegoSDias&label=Profile%20views&color=0e75b6&style=flat" alt="DiegoSDias" /> </p>
+
 ---
 #
 <p align="center">Sou <b>Estudante de Sistemas de Informação</b> na Unimontes e atuo como <b>desenvolvedor web bolsista no LICA (Laboratório de Inteligência Computacional Aplicada)</b>. Minha paixão por programação me move a estar sempre aprendendo e me aprofundando nas mais diversas áreas do desenvolvimento. Busco constantemente evoluir e aplicar meus conhecimentos para criar soluções inovadoras e eficientes.</p>
